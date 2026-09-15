@@ -1,0 +1,7 @@
+{
+  "name": "Mầm Kids - Thời Trang Hữu Cơ Cho Bé",
+  "description": "Thương hiệu thời trang hữu cơ cao cấp, thoáng mát và mềm mại cho trẻ em từ 3–12 tuổi. Thiết kế đo ni đóng giày theo thể trạng trẻ em Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
